@@ -50,7 +50,7 @@ The analysis identifies patterns in the available dataset. It does not establish
 ![Thumbnail](Flight_Delay_Thumbnail.png)
 
 ### 2. Charts
-![Chart](images/001.png)
+![Chart](Images/001.png)
 ![Chart](images/002.png)
 ![Chart](images/003.png)
 ![Chart](images/004.png)
