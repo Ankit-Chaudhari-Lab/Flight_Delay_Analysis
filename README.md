@@ -43,3 +43,7 @@ The analysis identifies patterns in the available dataset. It does not establish
 3. Open `Flight_Delay_Analysis.ipynb` in Jupyter Notebook.
 4. Ensure the dataset is available at the file path specified in the notebook.
 5. Run the cells in order.
+
+## Image Preview
+### Thumbnail
+![Thumbnail](Flight_Delay_Thumbnail.png)
