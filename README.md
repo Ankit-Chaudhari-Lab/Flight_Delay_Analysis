@@ -44,6 +44,20 @@ The analysis identifies patterns in the available dataset. It does not establish
 4. Ensure the dataset is available at the file path specified in the notebook.
 5. Run the cells in order.
 
-## Image Preview
-### Thumbnail
+## 📊 Project Visualizations
+
+### 1. Thumbnail
 ![Thumbnail](Flight_Delay_Thumbnail.png)
+
+### 2. Charts
+![Chart](images/001.png)
+![Chart](images/002.png)
+![Chart](images/003.png)
+![Chart](images/004.png)
+![Chart](images/005.png)
+![Chart](images/006.png)
+![Chart](images/007.png)
+![Chart](images/008.png)
+![Chart](images/009.png)
+![Chart](images/010.png)
+![Chart](images/011.png)
